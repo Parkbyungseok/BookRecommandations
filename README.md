@@ -1,4 +1,3 @@
 ﻿# BookRecommandations
 
-# 실행 방법
 
